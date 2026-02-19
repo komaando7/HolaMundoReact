@@ -4,7 +4,7 @@ import List from './HolaReact'
 function App() {
   return (
     <>
-      <h1>Mi aplicación React</h1>
+      <h1>Mi aplicación Reacaaat</h1>
       <List />
     </>
   )
