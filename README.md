@@ -47,3 +47,5 @@ http://localhost:5173
 Objetivo
 
 Practicar el uso de componentes en React, el tipado con TypeScript, el renderizado de listas y la organización de proyectos utilizando Vite.
+<img width="1894" height="801" alt="image" src="https://github.com/user-attachments/assets/e969c562-4bac-4288-aaf3-9a901f15116d" />
+
