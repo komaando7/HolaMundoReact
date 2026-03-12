@@ -1,10 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import './index.css'
-import App from './App.tsx'
-import HolaReact from './HolaReact.tsx'
-import Ods from './Ods.tsx  '
-
+import './components/index.css'
+import App from './components/App'
 
 
 createRoot(document.getElementById('root')!).render(

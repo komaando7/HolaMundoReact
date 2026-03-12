@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Iniciativa Ambiental",
+    "descripcion": "Proyecto de sostenibilidad ambiental"
+  },
+  {
+    "id": 2,
+    "nombre": "Iniciativa Social",
+    "descripcion": "Proyecto de impacto social"
+  },
+  {
+    "id": 3,
+    "nombre": "Iniciativa Educativa",
+    "descripcion": "Proyecto de educación sostenible"
+  }
+]
