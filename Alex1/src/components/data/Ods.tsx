@@ -24,6 +24,7 @@ export interface InterfazSostenible {
   id: number;
   odsfavorito: typeof ListaODS[keyof typeof ListaODS];
   estado: string;
+  color: string;
 }
 
 
@@ -32,86 +33,104 @@ export interface InterfazSostenible {
       id: 1,
       odsfavorito: ListaODS.ods1,
       estado: "Aprobado",
+      color: "#E5243B",
+      
     },
     {
       id: 2,
       odsfavorito: ListaODS.ods2,
       estado: "En proceso",
+      color: "#DDA63A",
     },
     {
       id: 3,
       odsfavorito: ListaODS.ods3,
       estado: "En proceso",
+      color: "#4C9F38",
     },
     {
       id: 4,
       odsfavorito: ListaODS.ods4,
       estado: "Aprobado",
+      color: "#C5192D",
     },
     {
       id: 5,
       odsfavorito: ListaODS.ods5,
       estado: "En proceso",
+      color: "#FF3A21",
     },
       {
       id: 6,
       odsfavorito: ListaODS.ods6,
       estado: "Aprobado",
+      color: "#26BDE2",
     },
       {
       id: 7,
       odsfavorito: ListaODS.ods7,
       estado: "En proceso",
+      color: "#FCC30B",
     },
       {
       id: 8,
       odsfavorito: ListaODS.ods8,
       estado: "Aprobado",
+      color: "#A21942",
     },
       {
       id: 9,
       odsfavorito: ListaODS.ods9,
       estado: "En proceso",
+      color: "#FD6925",
     },
       {
       id: 10,
       odsfavorito: ListaODS.ods10,
       estado: "Aprobado",
+      color: "#DD1367",
     },
       {
       id: 11,
       odsfavorito: ListaODS.ods11,
       estado: "En proceso",
+      color: "#FD9D24",
     },
       {
       id: 12,
       odsfavorito: ListaODS.ods12,
       estado: "Aprobado",
+      color: "#BF8B2E",
     },
       {
       id: 13,
       odsfavorito: ListaODS.ods13,
       estado: "En proceso",
+      color: "#3F7E44",
     },
       {
       id: 14,
       odsfavorito: ListaODS.ods14,
       estado: "Aprobado",
+      color: "#0A97D9",
     },
       {
       id: 15,
       odsfavorito: ListaODS.ods15,
       estado: "En proceso",
+      color: "#56C02B",
     },
       {
       id: 16,
       odsfavorito: ListaODS.ods16,
       estado: "Aprobado",
+      color: "#00689D",
     },
       {
       id: 17,
       odsfavorito: ListaODS.ods17,
       estado: "En proceso",
+      color: "#19486A",
     },
     
   ];
